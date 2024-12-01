@@ -8,8 +8,9 @@ This project aims at solving challenges faced by farmers. It can do leaf conditi
 
 2. Neural Architecture:
 
-The project utilizes a convolutional neural network, a type of deep learning model designed for image analysis tasks.
-The neural network is trained to extract features from leaves, which are crucial for accurately determining the location and spread of condition and predicting type of condition.
+   The project utilizes a convolutional neural network, a type of deep learning model designed for image analysis tasks.
+   The neural network is trained to extract features from leaves, which are crucial for accurately determining the location and spread of condition and predicting type of 
+   condition.
    
 
 
